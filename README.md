@@ -4,6 +4,10 @@ Master branch:
 
 AppImage for KDE okular
 
+landing page: https://dimyme.github.io/okular/
+
+wiki: https://github.com/dimyme/okular/wiki
+
 Okular combines the excellent functionalities with the versatility of supporting different kind of documents, like PDF, Postscript, DjVu, CHM, XPS, ePub and others.
 
 https://okular.kde.org/
